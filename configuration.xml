@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+  <client id="client1" address="tcp://172.20.29.48" port="57820">
+    <server id="s1" address="tcp://172.20.29.48" port="57821" />
+    <server id="s2" address="tcp://172.20.29.48" port="57822" />
+    <server id="s3" address="tcp://172.20.29.48" port="57823" />
+  </client>
+  
+  <client id="client2" address="tcp://172.20.29.49" port="57830">
+    <server id="s1" address="tcp://172.20.29.49" port="57831" />
+    <server id="s2" address="tcp://172.20.29.49" port="57832" />
+    <server id="s3" address="tcp://172.20.29.49" port="57833" />
+  </client>
+</configurations>
